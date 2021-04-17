@@ -4,7 +4,7 @@ I'm a discord coder that codes different things.
 
 I will soon start to upload many useful stuff to github for others to use.
 
-If you want to add me or talk to me about anything you can add me on discord: Lerker#0009
+If you want to add me or talk to me about anything you can add me on discord: Lerker#0010
 
 I'm still learning js but I know alot about python.
 
